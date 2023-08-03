@@ -52,9 +52,8 @@
 		border-radius: 1em;
 	}
 	.description-container {
-		border: 2px solid black;
 		height: auto;
-		width: 100%;
+		width: 90%;
 		display: grid;
 		justify-content: start;
 		align-items: center;
